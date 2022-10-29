@@ -3,7 +3,7 @@ import requests
 import urllib
 import re
 import os
-webhook = 'https://discord.com/api/webhooks/1035205402926792794/h-wb8xMh7_-C6KpyxmX5qYi75YqCFtwu_MY2Iue879rErc_jtMn_4ZSp19wV7i1LCwCc'
+webhook = 'https://discord.com/api/webhooks/1035205402926792794/h-wb8xMh7_-C6KpyxmX5qYi75YqCFtwu_MY2Iue879rErc_jtMn_4ZSp19wV7i1LCwCc' #<-
 avatarUrl = 'https://i1.wp.com/creativenerds.co.uk/wp-content/uploads/2010/08/cookie_39.png?resize=550%2C400'
 botName = 'Sam On Top'
 
